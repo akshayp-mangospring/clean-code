@@ -11,5 +11,5 @@ Many definitions can be derived from it. But I chose - A code which is elegant, 
 
 ### **Parts of clean code:**
 1. Refactoring
-2. Test Driven Development
-3. Code Organization and Code Design
+2. Test Driven Development and Error Handling
+3. Code Organization
